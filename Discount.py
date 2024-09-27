@@ -1,5 +1,4 @@
-
-
+# Discount
 Amount = int(input("Enter sale price: "))
 if(Amount>0):
     if Amount >=100:
