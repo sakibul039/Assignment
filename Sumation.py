@@ -1,5 +1,4 @@
-
-
+# Sumation
 print("select an operation to perform")
 print("1. ADDITION")
 print("2. SUBTRACT")
