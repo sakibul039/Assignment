@@ -1,4 +1,3 @@
-
 def convert_temperature():
 
     print("Choose the conversion:")
